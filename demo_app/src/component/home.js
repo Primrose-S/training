@@ -36,6 +36,7 @@ import './home.css'
         
 
       </div>
+      <footer> coded by Primrose Sibongile Dube</footer>
       </div>
       
    )
