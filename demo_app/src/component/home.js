@@ -10,6 +10,12 @@ import './home.css'
         YOUR BEAUTE IS IS OUR RESPONSIBILITY
       </h2>
       </div>
+      {/* <form>
+     <select>
+      
+      <option><label>hair cut</label>R50</option>
+     </select>
+      </form> */}
       <span className='main'>
         hair cut: R50
         <br/>
